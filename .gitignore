@@ -3,4 +3,5 @@ tutorial_model.pth
 .ipynb_checkpoints/
 venv_pytorch_pyro/
 pyro/
+.DS_Store
 
