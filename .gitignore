@@ -5,4 +5,5 @@ venv_pytorch_pyro/
 pyro_pytorch_venv/
 pyro/
 .DS_Store
+trained_models
 
