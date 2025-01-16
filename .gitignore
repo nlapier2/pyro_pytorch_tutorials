@@ -6,5 +6,5 @@ pyro_pytorch_venv/
 pyro/
 .DS_Store
 trained_models
-pytorch_tb/mnist_data/
+pytorch_tb/datasets/
 
