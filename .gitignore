@@ -7,4 +7,7 @@ pyro/
 .DS_Store
 trained_models
 pytorch_tb/datasets/
+scanpy_anndata/data/
+llm_tb/ch5-pretraining/data/
+llm_tb/ch5-pretraining/gpt2/
 
